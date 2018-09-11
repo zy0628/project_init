@@ -1,4 +1,4 @@
-./react_webpack/node_modules
-./vue_webpack/node_modules
-./webpack/node_modules
+react_webpack/node_modules
+vue_webpack/node_modules
+webpack_single/node_modules
 .idea
